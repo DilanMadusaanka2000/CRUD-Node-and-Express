@@ -1,0 +1,3 @@
+git remote add origin https://github.com/DilanMadusaanka2000/CRUD-Node-and-Express.git
+git branch -M main
+git push -u origin main
